@@ -1,0 +1,13 @@
+artifact_uri: /Users/shakthydoss/ml-flow-assignment/mlruns/0/ceb9b06727d8471799e7892616c716b3/artifacts
+end_time: 1535878998931
+entry_point_name: ''
+experiment_id: 0
+name: Run 7
+run_uuid: ceb9b06727d8471799e7892616c716b3
+source_name: /Users/shakthydoss/ml-flow-assignment/venv/lib/python2.7/site-packages/ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1535878998830
+status: 3
+tags: []
+user_id: shakthydoss
